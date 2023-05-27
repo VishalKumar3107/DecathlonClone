@@ -1,0 +1,439 @@
+{
+  "RAINEssentials": [
+    {
+      "id": 1,
+      "name": "Waterproof Jacket",
+      "type": "rainEssentials",
+      "price": 549.99,
+      "image": "https://images.prismic.io/indiahike/68185-feature-ballalarayana-durga-rain-monsoon-indiahikes-2.jpg?auto=compress,format&rect=0,0,1920,1280&w=1920&h=1280"
+    },
+    {
+      "id": 2,
+      "name": "Rain Boots",
+      "type": "rainEssentials",
+      "price": 349.99,
+      "image": "https://images.prismic.io/indiahike/3304-feature-Forclaz-500-trekking-shoes-Indiahikes.jpg?auto=compress,format&rect=0,0,1024,683&w=1024&h=683"
+    },
+    {
+      "id": 3,
+      "name": "Umbrella",
+      "type": "rainEssentials",
+      "price": 149.99,
+      "image": "https://qph.cf2.quoracdn.net/main-qimg-3c0c1edafad491c8d487ab3a32c118b2.webp"
+    },
+    {
+      "id": 4,
+      "name": "Rain Poncho",
+      "type": "rainEssentials",
+      "price": 244.99,
+      "image": "https://m.economictimes.com/thumb/msid-69859101,width-1200,height-900,resizemode-4,imgsize-175045/trekkingrains.jpg"
+    }
+  ],
+  "gymProducts": [
+    {
+      "id": 5,
+      "name": "Dumbbell Set",
+      "type": "gymProducts",
+      "price": 949.99,
+      "image": "https://plus.unsplash.com/premium_photo-1670505062582-fdaa83c23c9e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8ZHVtYmVsbHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Resistance Bands",
+      "type": "gymProducts",
+      "price": 249.99,
+      "image": "https://post.greatist.com/wp-content/uploads/sites/2/2020/10/woman-stretching-resistance-band-732x5490-thumbnail-732x549.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Yoga Mat",
+      "type": "gymProducts",
+      "price": 344.99,
+      "image": "https://cdn.nwscdn.com/media/catalog/product/cache/hxw/p/r/premium-exercise-_-yoga-mat.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Jump Rope",
+      "type": "gymProducts",
+      "price": 94.99,
+      "image": "https://cdn.britannica.com/66/145566-050-F80AADE1/Jumping-rope.jpg"
+    }
+  ],
+  "swimming": [
+    {
+      "id": 9,
+      "name": "Swimsuit",
+      "type": "swimming",
+      "price": 349.99,
+      "image": "https://5.imimg.com/data5/HT/SE/CJ/SELLER-68520605/0v6a1938-500x500.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Swimming Goggles",
+      "type": "swimming",
+      "price": 149.99,
+      "image": "https://sportdeals.in/media/catalog/product/cache/e5c0fec253a2321c3158449744ede3f2/b/i/biofuse_a.jpeg"
+    },
+    {
+      "id": 11,
+      "name": "Swim Cap",
+      "type": "swimming",
+      "price": 94.99,
+      "image": "https://cdn.shopify.com/s/files/1/0661/6865/1991/products/image1_dfc8be30-2ff9-4e6c-a16a-dea5d2af13f6.jpg?v=1680591091&width=1445"
+    },
+    {
+      "id": 12,
+      "name": "Flip Flops",
+      "type": "swimming",
+      "price": 144.99,
+      "image": "https://sc04.alicdn.com/kf/Hfd97111c28a84f54b8eee40bd6b29428c.jpg"
+    }
+  ],
+  "bestSellingSports": [
+    {
+      "id": 13,
+      "name": "Basketball",
+      "type": "bestSellingSports",
+      "price": 244.99,
+      "image": "https://static01.nyt.com/images/2022/12/28/multimedia/27ALTnba-nets-pro1-print-kd-1-c1a6/27nba-nets-pro-kd-1-c1a6-mediumSquareAt3X.jpg"
+    },
+    {
+      "id": 14,
+      "name": "Soccer Ball",
+      "type": "bestSellingSports",
+      "price": 149.99,
+      "image": "https://assets.goal.com/v3/assets/bltcc7a7ffd2fbf71f5/blt2b1eab7f0cab78cf/630f66496ee2d94d6e6a5456/Soccer_ball_football_general_view.jpg?auto=webp&format=pjpg&width=3840&quality=60"
+    },
+    {
+      "id": 15,
+      "name": "Tennis Racket",
+      "type": "bestSellingSports",
+      "price": 549.99,
+      "image": "https://cdn.britannica.com/57/183257-050-0BA11B4B/Roger-Federer-2012.jpg"
+    },
+    {
+      "id": 16,
+      "name": "Baseball Bat",
+      "type": "bestSellingSports",
+      "price": 349.99,
+      "image": "https://static01.nyt.com/images/2022/10/07/multimedia/07kepner-cardinals-1-1-086a/07kepner-cardinals-1-1-086a-mediumSquareAt3X.jpg"
+    }
+  ],
+  "trendingSports": [
+    {
+      "id": 17,
+      "name": "Skateboard",
+      "type": "trendingSports",
+      "price": 749.99,
+      "image": "https://static.nike.com/a/images/f_auto,cs_srgb/w_1536,c_limit/26da2155-9f77-4952-b1e8-bf459e2eb395/how-to-skateboard-for-beginners.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Surfboard",
+      "type": "trendingSports",
+      "price": 2499.99,
+      "image": "https://shop.agit-global.com/images/products/Wavestorm-8ft-Classic-Surfboard-surfboards-longboards-100.jpg"
+    },
+    {
+      "id": 19,
+      "name": "Snowboard",
+      "type": "trendingSports",
+      "price": 1499.99,
+      "image": "https://images.unsplash.com/photo-1584890131712-18ee8e3ed49c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8c25vd2JvYXJkfGVufDB8fDB8fHww&w=1000&q=80"
+    },
+    {
+      "id": 20,
+      "name": "Bicycle",
+      "type": "trendingSports",
+      "price": 2449.99,
+      "image": "https://staranddaisy.in/wp-content/uploads/2022/11/skillmax20in_03.jpg"
+    }
+  ],
+  "sportsEquipment": [
+    {
+      "id": 21,
+      "name": "Football Helmet",
+      "type": "sportsEquipment",
+      "price": 749.99,
+      "image": "https://scx2.b-cdn.net/gfx/news/2022/riddells-axiom-could-b.jpg"
+    },
+    {
+      "id": 22,
+      "name": "Hockey Stick",
+      "type": "sportsEquipment",
+      "price": 449.99,
+      "image": "https://www.dailyexcelsior.com/wp-content/uploads/2016/09/Hockey.jpeg"
+    },
+    {
+      "id": 23,
+      "name": "Golf Clubs",
+      "type": "sportsEquipment",
+      "price": 1449.99,
+      "image": "https://media.npr.org/assets/img/2023/03/01/gettyimages-1410422468_wide-f64095a661d8b05ad0433ef9da08b1f83dd23d24-s1100-c50.jpg"
+    },
+    {
+      "id": 24,
+      "name": "Tennis Balls",
+      "type": "sportsEquipment",
+      "price": 94.99,
+      "image": "https://library.sportingnews.com/styles/facebook_1200x630/s3/2021-08/tennis-racket-ball-getty-ftr-083020_1v4c9vmdpu88e1he0jsled3q49.jpg?itok=oHIHYLW4"
+    }
+  ],
+  "sportsWear": [
+    {
+      "id": 25,
+      "name": "Running Shoes",
+      "type": "sportsWear",
+      "price": 849.99,
+      "image": "https://samitivej-prod-new-website.s3.ap-southeast-1.amazonaws.com/public/uploads/descriptions/a13b6878c56fc4f2e83338ab4ca98496.jpg"
+    },
+    {
+      "id": 26,
+      "name": "Sport Shorts",
+      "type": "sportsWear",
+      "price": 244.99,
+      "image": "https://hips.hearstapps.com/hmg-prod/images/running-shorts-2000-1651763422.jpg?crop=0.888888888888889xw:1xh;center,top&resize=1200:*"
+    },
+    {
+      "id": 27,
+      "name": "Yoga Pants",
+      "type": "sportsWear",
+      "price": 344.99,
+      "image": "https://cdn.shopify.com/s/files/1/1311/6023/products/flexi_yoga_pants_2000x2000.jpg?v=1527189096"
+    },
+    {
+      "id": 28,
+      "name": "Sports Bra",
+      "type": "sportsWear",
+      "price": 149.99,
+      "image": "https://frontclosurebrareviews.com/wp-content/uploads/2020/10/front-zip-sports-bra-300x300.jpg"
+    }
+  ],
+  "rainEssentials": [
+    {
+      "id": 29,
+      "name": "Waterproof Jacket",
+      "type": "rainEssentials",
+      "price": 749.99,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/7/YI/EO/OT/26489940/tribord-sailing-race-100-mens-waterproof-jacket-500x500.jpg"
+    },
+    {
+      "id": 30,
+      "name": "Rain Boots",
+      "type": "rainEssentials",
+      "price": 349.99,
+      "image": "https://www-konga-com-res.cloudinary.com/w_auto,f_auto,fl_lossy,dpr_auto,q_auto/media/catalog/product/S/L/174024_1598818682.jpg"
+    },
+    {
+      "id": 31,
+      "name": "Umbrella",
+      "type": "rainEssentials",
+      "price": 149.99,
+      "image": "https://contents.mediadecathlon.com/p1909024/8a1c99312b7c74ecbaa2ad57e54158f3/p1909024.jpg?format=auto&quality=70&f=300x0"
+    },
+    {
+      "id": 32,
+      "name": "Rain Poncho",
+      "type": "rainEssentials",
+      "price": 244.99,
+      "image": "https://www.deccanmountainclub.com/cdn/shop/products/Hiking_Rain_Poncho_on_Rent_1024x1024.jpg?v=1509029471"
+    },
+    {
+      "id": 33,
+      "name": "Waterproof Backpack",
+      "type": "rainEssentials",
+      "price": 449.99,
+      "image": "https://contents.mediadecathlon.com/p2431723/bea97805143565ce7ab8e0e3680ce3e5/p2431723.jpg?format=auto&quality=70&f=300x0"
+    }
+  ],
+  "mountainBikes": [
+    {
+      "id": 34,
+      "name": "Full Suspension Mountain Bike",
+      "type": "mountainBikes",
+      "price": 9499.99,
+      "image": "https://contents.mediadecathlon.com/p2275903/1cf673c1428337384c3f7e3daaefefde/p2275903.jpg?format=auto&quality=70&f=300x0"
+    },
+    {
+      "id": 35,
+      "name": "Hardtail Mountain Bike",
+      "type": "mountainBikes",
+      "price": 6499.99,
+      "image": "https://contents.mediadecathlon.com/p2366110/95d056175f066d9a2556b4a989e538a5/p2366110.jpg?format=auto&quality=70&f=300x0"
+    },
+    {
+      "id": 36,
+      "name": "Electric Mountain Bike",
+      "type": "mountainBikes",
+      "price": 14499.99,
+      "image": "https://contents.mediadecathlon.com/p2275904/59a4ac09fed51215dec2c09f220317a6/p2275904.jpg?format=auto&quality=70&f=300x0"
+    },
+    {
+      "id": 37,
+      "name": "29er Mountain Bike",
+      "type": "mountainBikes",
+      "price": 8449.99,
+      "image": "https://contents.mediadecathlon.com/p2276549/51192602e9437258af1e9c1cbf46dcef/p2276549.jpg?format=auto&quality=70&f=300x0"
+    },
+    {
+      "id": 38,
+      "name": "Downhill Mountain Bike",
+      "type": "mountainBikes",
+      "price": 14999.99,
+      "image": "https://contents.mediadecathlon.com/p2451449/464b5e5878679218dc494ee50288e449/p2451449.jpg?format=auto&quality=70&f=300x0"
+    }
+  ],
+  "trendingNearYou": [
+    {
+      "id": 39,
+      "name": "Beach Volleyball Set",
+      "type": "trendingNearYou",
+      "price": 549.99,
+      "image": "https://sc04.alicdn.com/kf/H315f3ab5c2574540aaf1935d39e4edc7G.jpg"
+    },
+    {
+      "id": 40,
+      "name": "Outdoor Camping Tent",
+      "type": "trendingNearYou",
+      "price": 1429.99,
+      "image": "https://cdn.shopify.com/s/files/1/0170/6403/4358/products/TNT7_5b13da8b-fdb4-4bd5-aeb2-2aae82843b70.jpg?v=1564739953"
+    },
+    {
+      "id": 41,
+      "name": "Hiking Backpack",
+      "type": "trendingNearYou",
+      "price": 849.99,
+      "image": "https://5.imimg.com/data5/AH/YR/MY-56598927/hiking-backpack-bag-500x500.jpg"
+    },
+    {
+      "id": 42,
+      "name": "Fishing Rod",
+      "type": "trendingNearYou",
+      "price": 449.99,
+      "image": "https://5.imimg.com/data5/JI/SW/MY-71782905/fibre-fishing-rods-500x500.jpg"
+    },
+    {
+      "id": 43,
+      "name": "Portable Folding Chair",
+      "type": "trendingNearYou",
+      "price": 244.99,
+      "image": "https://5.imimg.com/data5/SELLER/Default/2021/2/OB/TX/IE/48387660/om-anvayportable-folding-chair-with-arm-rest-cup-holder-and-carrying-and-perfect-storage-bag-500x500.jpg"
+    }
+  ],
+  "popularCategories": [
+    {
+      "id": 44,
+      "name": "Cycling Accessories",
+      "type": "popularCategories",
+      "price": 249.99,
+      "image": "https://contents.mediadecathlon.com/s997247/k$02d6a65458616e4c88d9d773b3998708/frame%2029.png?format=auto&quality=70&f=1920x0"
+    },
+    {
+      "id": 45,
+      "name": "Running Shoes",
+      "type": "popularCategories",
+      "price": 749.99,
+      "image": "https://contents.mediadecathlon.com/s997246/k$716195c6d75d51efb7e67878913e61df/frame%2028.png?format=auto&quality=70&f=1920x0"
+    },
+    {
+      "id": 46,
+      "name": "Fitness Tracker",
+      "type": "popularCategories",
+      "price": 449.99,
+      "image": "https://contents.mediadecathlon.com/s997243/k$8357209472c73846bba264eb259846c0/frame%2032.png?format=auto&quality=70&f=1920x0"
+    },
+    {
+      "id": 47,
+      "name": "Camping Stove",
+      "type": "popularCategories",
+      "price": 349.99,
+      "image": "https://www.jiomart.com/images/product/600x600/rvxic09w1i/szonz-portable-picnic-camping-aluminum-gas-stove-ultra-light-folding-furnace-outdoor-metal-camping-gas-stove-picnic-cooking-gas-burners-folding-stove-product-images-orvxic09w1i-p596605996-0-202212231941.jpg"
+    },
+    {
+      "id": 48,
+      "name": "Tennis Racket",
+      "type": "popularCategories",
+      "price": 849.99,
+      "image": "https://m.media-amazon.com/images/I/61zDp5QsEKL._SL1500_.jpg"
+    },
+    {
+      "id": 49,
+      "name": "Yoga Mat",
+      "type": "popularCategories",
+      "price": 149.99,
+      "image": "https://www.healthklin.com/image/cache/catalog/PRODUCTIMAGES/yogamat1-750x750.jpg"
+    },
+    {
+      "id": 50,
+      "name": "Golf Clubs Set",
+      "type": "popularCategories",
+      "price": 1499.99,
+      "image": "https://5.imimg.com/data5/NT/IW/LB/SELLER-71391934/lynx-golf-set-graphite-steel-500x500.jpg"
+    },
+    {
+      "id": 51,
+      "name": "Swimming Goggles",
+      "type": "popularCategories",
+      "price": 144.99,
+      "image": "https://5.imimg.com/data5/DL/YY/MY-7577666/swim-goggles-500x500.jpg"
+    }
+  ],
+  "HikingAndTrekkingEssentials": [
+    {
+      "id": 52,
+      "name": "Trekking Backpack",
+      "type": "HikingAndTrekkingEssentials",
+      "price": 949.99,
+      "image": "https://contents.mediadecathlon.com/p2148661/744fde56d90f76d490a4e71d62d2526c/p2148661.jpg?format=auto&quality=70&f=1920x0"
+    },
+    {
+      "id": 53,
+      "name": "Hiking Boots",
+      "type": "HikingAndTrekkingEssentials",
+      "price": 1429.99,
+      "image": "https://contents.mediadecathlon.com/p2117065/e4bdaa1ad2253318c0e4cc43dda902b6/p2117065.jpg?format=auto&quality=70&f=1920x0"
+    },
+    {
+      "id": 54,
+      "name": "Trekking Poles",
+      "type": "HikingAndTrekkingEssentials",
+      "price": 349.99,
+      "image": "https://store.indiahikes.com/wp-content/uploads/2018/12/Rental-shoot_Jothiranjan_Indiahikes_Product-shoot_August-2022_-81-2.jpg"
+    },
+    {
+      "id": 55,
+      "name": "Camping Hammock",
+      "type": "HikingAndTrekkingEssentials",
+      "price": 449.99,
+      "image": "https://5.imimg.com/data5/ECOM/Default/2021/11/ER/CM/WK/91262661/adce3431-71bd-4fd4-a63a-b7775af09f27-500x500.jpg"
+    },
+    {
+      "id": 56,
+      "name": "Headlamp",
+      "type": "HikingAndTrekkingEssentials",
+      "price": 149.99,
+      "image": "https://m.media-amazon.com/images/I/51B5xjndGgL.jpg"
+    },
+    {
+      "id": 57,
+      "name": "Water Purifier",
+      "type": "HikingAndTrekkingEssentials",
+      "price": 749.99,
+      "image": "https://m.media-amazon.com/images/I/61J3mXJsXPL._SX342_.jpg"
+    },
+    {
+      "id": 58,
+      "name": "Trekking Pants",
+      "type": "HikingAndTrekkingEssentials",
+      "price": 549.99,
+      "image": "https://contents.mediadecathlon.com/p1927134/k$09adf6936060ffc66f4cdf049cb50c64/FORCLAZ%20PANTALON%20TREK%20500%20H%20BLEU.jpg?format=auto&quality=70&f=1920x0"
+    },
+    {
+      "id": 59,
+      "name": "Sleeping Bag",
+      "type": "HikingAndTrekkingEssentials",
+      "price": 649.99,
+      "image": "https://5.imimg.com/data5/FH/AJ/MY-37565102/premium-quality-waterproof-adult-sleeping-bag-for-camping-2c-hiking-and-adventure-trips-500x500.jpg"
+    }
+]
+}
