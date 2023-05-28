@@ -1,0 +1,120 @@
+.input-style {
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    color: #555;
+    outline: none;
+    margin-bottom: 10px;
+  }
+  
+  .input-style:focus {
+    border-color: #007bff;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  
+
+  .form--submit {
+    margin: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    color: #919396;
+    background-color: #e0e8ef;
+    border-style: solid;
+    border-width: 2px 2px 2px 2px;
+    border-color: rgba(255, 255, 255, 0.333);
+    padding: 8px 12px 8px 12px;
+    transform: translate(0px, 0px) rotate(0deg);
+    transition: 0.2s;
+    box-shadow: -4px -2px 16px 0px #ffffff, 4px 2px 16px 0px rgb(95 157 231 / 48%);
+   }
+   
+   .form--submit:hover {
+    color: #516d91;
+    background-color: #E5EDF5;
+    box-shadow: -2px -1px 8px 0px #ffffff, 2px 1px 8px 0px rgb(95 157 231 / 48%);
+   }
+   
+   .form--submit:active {
+    box-shadow: none;
+   }
+
+   .Auth{
+    width: 550px;
+    font-family: 'Roboto Condensed', sans-serif;
+    height: 400px;
+    display: flex;
+    color: black;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+   }
+
+   .Authimage{
+    flex-basis: 50%;
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    justify-content: space-around;
+    height: 70%;
+    background-color: #ebebeb;
+   }
+
+   .Authimage h2{
+    font-size: 45px;
+    text-transform: uppercase;
+    color: #c7c7c7;
+   }
+
+   .Authimage p{
+    font-size: 22px;
+    color: rgb(85, 85, 85);
+    margin-top: -10px;
+    margin-left: 10px;
+    line-height: 1px;
+    text-transform: uppercase;
+   }
+
+   .Authimage .spanpara{
+    color: #007bff;
+   }
+
+   .Authform{
+    flex-basis: 50%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+   }
+
+   .Login .form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   }
+
+   .form .signup{
+    margin: 20px;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 800;
+    color: #555;
+   }
+
+   .Authenticate-box-button{
+    background-color: #007bff;
+    color: white;
+    border: none;
+    height: 40px;
+    width: 100%;
+    font-size: 15px;
+    border-radius: 8px;
+   }
